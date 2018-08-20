@@ -8,10 +8,10 @@ Heroku Links:
 
 Github Repositories :
 
-Front End : 
+* Front End : 
 
 Store Front : https://github.com/sarthaksachdeva13/webdev-summer2-project-angular-storefront
 
 Admin Portal : https://github.com/sarthaksachdeva13/webdev-summer2-project-angular-adminportal
 
-Back End : https://github.com/sarthaksachdeva13/webdev-summer2-project-server
+* Back End : https://github.com/sarthaksachdeva13/webdev-summer2-project-server
